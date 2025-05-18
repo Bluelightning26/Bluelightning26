@@ -11,7 +11,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bluelightning26&theme=dark&hide_border=false)<br/>
 ## Languages by Percentage and Time
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bluelightning26&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-![](https://github-readme-stats.hackclub.dev/api/wakatime?username=31&api_domain=hackatime.hackclub.com&theme=dark&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=14)
+![](https://github-readme-stats.hackclub.dev/api/wakatime?username=31&api_domain=hackatime.hackclub.com&theme=dark&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=24)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- :) I generated this using the link above, while it is a bit buggy, 100% would recommend as I really like it -->
