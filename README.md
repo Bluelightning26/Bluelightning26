@@ -14,5 +14,13 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bluelightning26&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 ![](https://github-readme-stats.hackclub.dev/api/wakatime?username=31&api_domain=hackatime.hackclub.com&theme=dark&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=14)
 
+
+## Hackatime Heat Map
+<a href="https://heatmap.shymike.dev?id=31&timezone=America%2FNew_York&ranges=40%2C20%2C5&standalone=true" title="Click to view detailed data for each day!">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://heatmap.shymike.dev?id=31&timezone=America%2FNew_York&ranges=40%2C20%2C5&theme=dark">
+        <img alt="Hackatime activity heatmap" src="https://heatmap.shymike.dev?id=31&timezone=America%2FNew_York&ranges=40%2C20%2C5&theme=light">
+    </picture>
+</a>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- :) I generated this using the link above, while it is a bit buggy, 100% would recommend as I really like it -->
