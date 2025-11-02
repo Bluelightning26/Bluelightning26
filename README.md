@@ -56,7 +56,8 @@ I am currently working at **[@hackclub](https://github.com/hackclub)** to help o
 ## Contact
 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dhyan@hackclub.com) 
-![](https://badges.api.lorebooks.wiki/badges/hackclub/hackclub?style=flat-square)
+![made by dhyan](https://img.shields.io/badge/Hack_Club--Purple?style=flat&logo=hackclub&logoColor=%23ffffff&label=Hack%20Club&labelColor=%23EC3750&color=%23EC3750&link=https%3A%2F%2Fhackclub.com)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- :) I generated this using the link above, while it is a bit buggy, 100% would recommend as I really like it -->
