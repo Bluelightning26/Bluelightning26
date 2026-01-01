@@ -4,6 +4,7 @@
 ---
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dosis&weight=750&size=30&pause=360000&color=F78AEB&width=530&height=45&lines=fun+stats)](https://git.io/typing-svg)
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=bluelightning26&theme=dark&hide_border=false)
 ![](https://awesome-github-stats.azurewebsites.net/user-stats/Bluelightning26?cardType=github&theme=github-dark&fontFamily=Dosis&preferLogin=false)
 ![](https://hackatime-badge.hackclub.com/31/axon?label=time+spent+typing+code&aliases=baritone)
 ![](github-readme-stats.tuhidulhossain.com/?user=bluelightning26&theme=dark&hide_border=false)<br/>
